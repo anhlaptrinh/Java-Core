@@ -1,0 +1,29 @@
+# Thư mục biên dịch
+target/
+bin/
+
+# Thư mục tạo bởi IDE
+.vscode/
+.idea/
+*.iml
+
+# Tệp tạm thời của hệ thống
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Tệp nhị phân và thư viện
+*.class
+*.jar
+*.war
+*.ear
+
+# Cấu hình môi trường
+.env
+*.secret
+
+# Tệp cấu hình của Eclipse
+.project
+.classpath
+.settings/
